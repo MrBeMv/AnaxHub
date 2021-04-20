@@ -1,7 +1,7 @@
 -- not finished yet.
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Axanial", "Synapse")
+local Window = Library.CreateLib("Axanial", "Sentinel")
 
 --info
 local Tab = Window:NewTab("Info")
