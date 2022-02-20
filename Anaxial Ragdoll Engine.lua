@@ -5,7 +5,7 @@ local Window = Library.CreateLib("Axanial", "Sentinel")
 
 --info
 local Tab = Window:NewTab("Info")
-local Section = Tab:NewSection("Made by Amara#7743")
+local Section = Tab:NewSection("Made by Sent-Cxa#8858")
 
 --player
 local Tab = Window:NewTab("Player")
